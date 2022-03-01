@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ane complaint vpon fortoun</title>
+            <author>Sempill, Robert, 1530?-1595.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1581</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00681</idno>
+            <idno type="STC">STC 22190</idno>
+            <idno type="STC">Interim Tract Supplement Guide Huth 50[12]</idno>
+            <idno type="EEBO-CITATION">99892884</idno>
+            <idno type="PROQUEST">ocm99892884</idno>
+            <idno type="VID">182328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182328)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:4[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ane complaint vpon fortoun</title>
+                  <author>Sempill, Robert, 1530?-1595.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>be Robert Lekprewicke, dwelling at the Netherbow,</publisher>
+                  <pubPlace>Imprintit at Edinburgh :</pubPlace>
+                  <date>[1581]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Quod Sempill.</note>
+                  <note>Date of publication suggested by STC.</note>
+                  <note>Verse: "In constant warid fragill and friuolus ..."</note>
+                  <note>Printed in three columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182328:1"/>
+            <head>❀ Ane Complaint vpon Fortoun</head>
+            <lg>
+               <l>IN conſtant warld fragill and friuolus,</l>
+               <l>with feinȝeit Fortoun, quha confides in the:</l>
+               <l>ſall find his lyfe cairfull and cruellus,</l>
+               <l>Led in this vale of wofull miſerie,</l>
+               <l>Quhat potent Princes in proſperitie,</l>
+               <l>Hes ſho depoſd from their imperiall places.</l>
+               <l>Hir craft quotidian, we may cleirly ſe</l>
+               <l>As men in mirrouris may behauld their faces.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g>The worthie Bocas in his morall buke,</l>
+               <l>The fall of Princes plainly dois compyle.</l>
+               <l>Amangs them all quha euer lykes to luke,</l>
+               <l>Sall finde Dame Fortounis fauour for a quhyle.</l>
+               <l>For with the one eye ſho can lauch and ſmyle,</l>
+               <l>And with the vther lurke and play the loun.</l>
+               <l>Sum to promotioun, and ſome to plaine exile,</l>
+               <l>Lyke draw well bukkets dowkand vp and doun.</l>
+            </lg>
+            <lg>
+               <l>¶That variable Witch makis all the warld ado,</l>
+               <l>Quhat Kingis and Countreis hes ſho brocht to end</l>
+               <l>Aſſyrians, Perſians, Grekes, and Romains to,</l>
+               <l>The Monarches foure micht not hir force defend.</l>
+               <l>Bulworkis nor battellis bydis her nocht a bend,</l>
+               <l>Quha may withſtand her ſtraik, quhan ſho lift ſtryke,</l>
+               <l>This nicht aneuch, the morne nathing to ſpend,</l>
+               <l>Imago in Luna, and ſho lukis baith alyke,</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g>To pen the ſpeciallis it paſſis mony a hunder,</l>
+               <l>And makis the tyme ouer tidious to declare.</l>
+               <l>Sum ſho promouis and ſum ſho puttis to vnder,</l>
+               <l>And ſum rewardes with wandring heir and thair,</l>
+               <l>And ſum incaſtrat captiues in the ſnair,</l>
+               <l>And ſum for flatrie dois hir freindſhip find.</l>
+               <l>To all eſtates vntruethfull quhat ſould mair,</l>
+               <l>Turnand her volt lyke woddercok in wind.</l>
+            </lg>
+            <lg>
+               <l>☞To paint her out it paſſis mine ingyne.</l>
+               <l>How wonderfully ſho wirkes in all thir thingis.</l>
+               <l>Sum fra thair birth brocht vp with Doggis &amp; ſwine</l>
+               <l>Tane fra the Pleuch and placit in ſait of Kingis.</l>
+               <l>The brutell beiſt ane barbour wolfe vpbringis,</l>
+               <l>The firſt borne Romain callit Romulus.</l>
+               <l>Quhais binde as ȝit into that regioun ringis,</l>
+               <l>By expectatioun of auld Amelius.</l>
+            </lg>
+            <lg>
+               <l>☞ Cyrus ſiclyke was be ane Bitche vpbrocht,</l>
+               <l>Cround as a King ane cruell man of weir.</l>
+               <l>Pareis in troy that all the toun forthocht.</l>
+               <l>Preſeruit from ſlauchter be ſouking of a Beir.</l>
+               <l>And ſwa was Thylaphus with ane Hinde I heir,</l>
+               <l>Medas With Imates and maid ane michtie Prince.</l>
+               <l>Plato with beis quha did ſic prudence leir,</l>
+               <l>That all men meruelled of his Eloquence.</l>
+            </lg>
+            <lg>
+               <l>☞Without reſpect to blude royall or clan,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ureanis promouit that na man wald preſume.</l>
+               <l>Torquinius Priſtus a baneiſt marchant man,</l>
+               <l>Chaiſt out of Corinth and Cround a King in Rome.</l>
+               <l>Siclyke was Seruius from ane ſhipherd grome,</l>
+               <l>And Tullus Boſtilius fand her fauour neiſt.</l>
+               <l>Is, was, and ſalbe quhill the day of dome,</l>
+               <l>Sic doubill dealing in Dame Fortounis breiſt.</l>
+            </lg>
+            <lg>
+               <l>☞Quha findis hir freindſhip of fauour hes aneuch,</l>
+               <l>To warldly glore ſho gydes them all that gait.</l>
+               <l>Tuke ſho not Gordias from the Spaid and Pleuch,</l>
+               <l>And quickly placit him in Princes ſait.</l>
+               <l>How far may Darius bragge of her debait,</l>
+               <l>Tane fra the Stabil ouer Perſia to ring.</l>
+               <l>Duce agathocles from a law eſtait,</l>
+               <l>Ane Potteris boy to be ane potent King.</l>
+            </lg>
+            <lg>
+               <l>☞Of Iuſtine the Suinehird ſho maid ane empriour</l>
+               <l>Ouer Conſtantinople ane King &amp; cround him thair,</l>
+               <l>Gyges the Gait hird ane michtie Conquerour,</l>
+               <l>To Lydia land ſhe maid him Lord and aire.</l>
+               <l>and Wallancianus from his landwart fair,</l>
+               <l>Tane fra the Pleuch to place Imperiall.</l>
+               <l>Cambyſes Nero be the contrair clair,</l>
+               <l>Was thair awin burresis to thair buriall.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g>Sa Fortoun mountit neuer man ſa hie,</l>
+               <l>Foſtered with Folie Suppoſe ſhe make them fane.</l>
+               <l>Bot with ane tit ſho turnis the quheill ȝe ſie,</l>
+               <l>Doun gois their heid vp gois their heillis againe.</l>
+               <l>Of Alexander to write I war bot vaine,</l>
+               <l>Ouer Fifty landis he lord was at the leiſt.</l>
+               <l>Ȝit threttie dayis lay efter he was ſlaine,</l>
+               <l>Vnbureit in Babell lyke a brutell beiſt,</l>
+            </lg>
+            <lg>
+               <l>Xerxes quhoſe armeis maid the riueris dry,</l>
+               <l>and Schippis ſubumbragit all the ſeyis on breid.</l>
+               <l>Did ſho not wait him with ſic foule Inuy,</l>
+               <l>Pray to Pericles yat put him to his ſpeid.</l>
+               <l>Of Iulius Ceſar gif thow lykes to reid,</l>
+               <l>In his triumphant toun victorious.</l>
+               <l>Slaine be his Senatis ſchamefully in deid,</l>
+               <l>By his awin kinſmen Brutus and Caſſus.</l>
+            </lg>
+            <lg>
+               <l>☞Sum auld example heir I man Induce,</l>
+               <l>To bring my purpoſe to more ſpeciall.</l>
+               <l>Quha was mair worthie gif I wald make ruſe,</l>
+               <l>More ſtout more trew, nor hardy Hanniball.</l>
+               <l>Danter of Romaines to Carthage ane Caſtell wall,</l>
+               <l>The onely thing quhairin he maiſt reioyſit.</l>
+               <l>Do quhat he docht in deidis marciall,</l>
+               <l>By his awin pepill petiouſly depoſed.</l>
+            </lg>
+            <lg>
+               <l>Siclyke was Sipio faikleſly ſchot furth,</l>
+               <l>That vinqueiſt Hanniball lyke a warriour wicht.</l>
+               <l>His valiant workes was weyit bot litill worth,</l>
+               <l>Quhen he was baneiſt with a bair gude nicht.</l>
+               <l>Nor lyke a captaine nor kindly Knicht,</l>
+               <l>Bot lyke ane beggar baneiſt in exile,</l>
+               <l>Sa Fortoun montit neuer man on hicht,</l>
+               <l>Bot ſho can law him within a litill quhyle.</l>
+            </lg>
+            <lg>
+               <l>Alchebead of athenis was Duke,</l>
+               <l>Of Princely Parents and ane royall race.</l>
+               <l>To keip his toun ſic trauell vndertuke,</l>
+               <l>He maid his fo men fle befoir his face.</l>
+               <l>To his rewarde he gat nane vther grace,</l>
+               <l>Ingraitly baneiſt to their awin grit ſkaith.</l>
+               <l>and Tymiſtocles in that ſamin place,</l>
+               <l>by their awin burgeſſis thay wer baneiſt baith,</l>
+            </lg>
+            <lg>
+               <l>☞Experience teiches me not to flyte with Fortoun<g ref="char:punc">▪</g>
+               </l>
+               <l>With auld examples that dois na thing belang vs.</l>
+               <l>Marke Iames of Dowglas preſent Erle of Morton,</l>
+               <l>ane of the beſt that euer was borne amang vs.</l>
+               <l>Danter of cheuis that dayly dois ouer gang vs,</l>
+               <l>Key of this Countre that kepit vs from ſkaith.</l>
+               <l>I ſpeik na farther in feir thay ſould gar hang vs,</l>
+               <l>Preichouris and poiettis are put to ſilence baith.</l>
+            </lg>
+            <lg>
+               <l>Few things wer done bot Mortoun interpriſit them</l>
+               <l>Dumbar and Brichane and mony vthair bloke:</l>
+               <l>Speik quhat thay pleis he wrocht the<g ref="char:cmbAbbrStroke">̄</g> &amp; deuiſit them,</l>
+               <l>He and his freindis ay formeſt in the flocke</l>
+               <l>He faucht ȝour querrell as kein as ony Cok,</l>
+               <l>Reuengit ȝour murthers ma nor twa or thrie.</l>
+               <l>ane nobill man and of ane ancient ſtoke,</l>
+               <l>His valiant deidis demereitis not to die.</l>
+            </lg>
+            <lg>
+               <l>¶Ane of the ſpeciallis did mentene ȝour Croun,</l>
+               <l>Ȝour ferme protectour in ȝour tender ȝeiris.</l>
+               <l>He maid ȝow vp and all ȝour to men doun,</l>
+               <l>His marciall manheid did mentein ȝour weiris,</l>
+               <l>Gif he did wrang rewarde him as effeiris,</l>
+               <l>Gif he did gud God wald he ſould be tret.</l>
+               <l>bot as the prouerbe ſpeikis it plaine appeiris,</l>
+               <l>auld men will die and barnes will ſone forȝet.</l>
+            </lg>
+            <lg>
+               <l>Was he not rewler ouer ȝour Realme and Rigioun.</l>
+               <l>Quhill all was pacifeit be his prudent wit.</l>
+               <l>Stude he not ſtoutly be that trew Religoiun.</l>
+               <l>ane of the firſt that maid the Freiris to flit.</l>
+               <l>Frauke on the feildis and Formeſt at the bit,</l>
+               <l>Without reſpect to baggis or bodie to.</l>
+               <l>Ȝour faithfall ſubiect and ſua be ſalbe ȝit.</l>
+               <l>To do gude ſeruice as I haue ſeene him do.</l>
+            </lg>
+            <lg>
+               <l>☞Than at Carbarrie hill he held a day,</l>
+               <l>With litill blude ſhed bothwell was put a bake,</l>
+               <l>Quha ſlew ȝour Father and fibilly fled away,</l>
+               <l>Syne ſocht ȝour ſelfe to bring this Realme to ſa<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </l>
+               <l>How mony Clawbackes than ſuppoſe thay crak,</l>
+               <l>Conuenit with Mortoun quhan bothwel tuk ye chaſe</l>
+               <l>Try or ȝe tine him and trow not all thay ſpak,</l>
+               <l>Lat workes heir wirnes vaine wordis ſould haue na place</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g>Sone efter that the Counſell cround ȝour ſell,</l>
+               <l>Quhan Godly Murray as a Regent rang.</l>
+               <l>Ȝit thair was ſome that bauldly did rebell,</l>
+               <l>That to ȝour Lawis wald nouther ryde nor gang.</l>
+               <l>quha thair conuenit for to reuenge ȝour wrang,</l>
+               <l>albeit ȝour action was thocht innocent.</l>
+               <l>It was the Dowglaſſis douchtaly them dang,</l>
+               <l>and plett ȝour proces in that parliament,</l>
+            </lg>
+            <lg>
+               <l>☞Quha could declare our langſum lyfe in Leith,</l>
+               <l>Fechtand all day and ſyne lay in our clais.</l>
+               <l>Gif Lindeſay lykes that Lord can tell ȝow eith,</l>
+               <l>Quha was ȝour freindis or quha your Mortall fais.</l>
+               <l>Or quha gaid formeſt breiſtand vp the braies,</l>
+               <l>I dar not pen the ſpeciallis I do plaine ȝow.</l>
+               <l>bot weill I wait how euer the warld now gais,</l>
+               <l>Thai find maiſt freindſhip was fardeſt yan agian ȝou</l>
+            </lg>
+            <lg>
+               <l>☞Syne at Laugſyde feild ȝour grace may ken,</l>
+               <l>Mortoun was thair ane man amang the reſt.</l>
+               <l>In Striuiling toun out of his dowie deu,</l>
+               <l>Maiſt lyke a Fox thay fyrit him in his neſt.</l>
+               <l>In Edinburgh Caſtell quhair thay war poſſeſt,</l>
+               <l>He them deplaced that purpoſit to vndo ȝow.</l>
+               <l>Quhan ȝe grow auid I wait ȝe will confeſt,</l>
+               <l>Mortoun hes bene ane faithfull ſaruand to ȝow.</l>
+            </lg>
+            <lg>
+               <l>☞Quhan Regentis deit and all the Lytes inlaikit,</l>
+               <l>The Counſell did conuene and ſet ane day.</l>
+               <l>Thay cheiſit him Regent in that rowme yat waikit,</l>
+               <l>With ſad adwiſe for few or nane ſaid nay</l>
+               <l>bot ȝit I think thay playit ȝour grace foule play,</l>
+               <l>Gif he was knawin than of thir crymes conuict.</l>
+               <l>Gif he be ſaikles ſurely I dar ſay,</l>
+               <l>Thay haue defamit him with ane fulich trick.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:cross">✚</g>To dant the theuis had he nocht mekill ado,</l>
+               <l>Abandoned the borders that na man durſt rebell.</l>
+               <l>The Armeſtrangis Eluottis and the Iohneſtons to,</l>
+               <l>With tuentie vther Clans I can not tell.</l>
+               <l>During his dayis yai durſt not ryde ane ell,</l>
+               <l>The Hirdis and hinde men in their Labeis lay.</l>
+               <l>bot thair eſtait as now ȝe ſie ȝour ſell,</l>
+               <l>all nicht to walke and fane to wirk all day.</l>
+            </lg>
+            <lg>
+               <l>☞Aganis grit Lordis committing ſmall offence,</l>
+               <l>With iniuſt challenge thay aucht na man to cheſſoun,</l>
+               <l>Mortoun hes ay bene vpricht with his Prince,</l>
+               <l>but ſpot of cryme or ony point of treſſoun.</l>
+               <l>Albeit gude ſaruice be not tane in ſeaſoun,</l>
+               <l>His workes may witnes he neuer ſparit for perrell.</l>
+               <l>Laitly accuſit but outher ryme or reſſoun,</l>
+               <l>as ſindrie ſchawis me for a ſaikles querrell.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g>Daft fulis defyis him becauſe thay finde him ſage</l>
+               <l>and Cowartis contrarious for his hardiment.</l>
+               <l>Young men for glaikrie can not agrie with age.</l>
+               <l>and waiſteris inuyis him for his gouernement.</l>
+               <l>and Sacreit counſell can not be content,</l>
+               <l>To ſuffer lordſhippis in equalitie.</l>
+               <l>ȝit I beſeik ȝour grace of gude intent,</l>
+               <l>To play the Prince but parcialitie.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g>Adwiſe ȝow weill ſen he hes not offendit,</l>
+               <l>to keip ſic tenattis it ſall decore ȝour land.</l>
+               <l>of raiche detreitis cums rew and may not mend it,</l>
+               <l>As Scottiſmens Wiſdome dois behinde the hand,</l>
+               <l>Wyſe lordis are ill ta make I vnderſtand,</l>
+               <l>and trewly in Kingis is to abhorre</l>
+               <l>This ſempill counſall Syr is na command,</l>
+               <l>Bot wald to God that na man louit ȝow war,</l>
+            </lg>
+            <trailer>FINIS, quod Sempill.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>☞ Imprintit at Edinburgh be Robert Lekprewicke, dwelling at the Netherbow.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
